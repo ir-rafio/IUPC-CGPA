@@ -1,0 +1,39 @@
+{
+  "contests": [
+    {
+      "name": "CUET 2024",
+      "filenames": ["CUET24.html"],
+      "parser": "TOPH"
+    },
+    {
+      "name": "SUST 2024",
+      "filenames": ["SUST24.html"],
+      "parser": "TOPH"
+    },
+    {
+      "name": "NCPC 2024",
+      "filenames": ["NCPC24.html"],
+      "parser": "BAPS"
+    },
+    {
+      "name": "IUT 2024",
+      "filenames": ["IUT24.html"],
+      "parser": "TOPH"
+    },
+    {
+      "name": "BUET 2024",
+      "filenames": ["BUET24.html"],
+      "parser": "TOPH"
+    },
+    {
+      "name": "ICPC 2024",
+      "filenames": ["ICPC24 - Page 1.html", "ICPC24 - Page 2.html"],
+      "parser": "BAPS"
+    },
+    {
+      "name": "KUET 2025",
+      "filenames": ["KUET25.html"],
+      "parser": "BAPS"
+    }
+  ]
+}

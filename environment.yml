@@ -1,0 +1,8 @@
+name: iupcrank
+dependencies:
+  - beautifulsoup4
+  - numpy
+  - pandas
+  - regex
+  - requests
+  - ipykernel
