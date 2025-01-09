@@ -26,7 +26,7 @@ This project attempts to calculate ratings of different universities based on th
    
    - **`contests.json`**: Contains information about the contests, including their names, filenames (which should correspond to the HTML files of the contests), and the parser to be used.
    - **`institutions.json`**: Lists institutions and their alternate names.
-   - **`contest_weights.json`**: Specifies the weights assigned to each contest for ranking.
+   - **`credits.json`**: Specifies the weights assigned to each contest for ranking.
    - **HTML files**: These should be placed in the `input/contest_files` directory. The HTML pages should be directly saved from the standings pages of online judges. Currently, the supported OJs are Toph and BAPSOJ.
 
 4. **Run the Analysis**:
@@ -38,5 +38,5 @@ This project attempts to calculate ratings of different universities based on th
 - `input/contest_files/`: Directory containing HTML files for each contest.
 - `input/contests.json`: JSON file with contest details.
 - `input/institutions.json`: JSON file with institution details.
-- `input/contest_weights.json`: JSON file with contest weights.
+- `input/credits.json`: JSON file with credits for each contest.
 - `output`: Directory for generated outputs.
