@@ -34,6 +34,16 @@
       "name": "KUET 2025",
       "filenames": ["KUET25.html"],
       "parser": "BAPS"
+    },
+    {
+      "name": "UIU 2025",
+      "filenames": ["UIU25.html"],
+      "parser": "BAPS"
+    },
+    {
+      "name": "AUST 2025",
+      "filenames": ["AUST25.html"],
+      "parser": "TOPH"
     }
   ]
 }
