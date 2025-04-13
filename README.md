@@ -45,7 +45,7 @@ Along with generating rankings, the project also automatically distributes conte
 - `input/options.json`: JSON file with configurable parameters for the slot distribution process
 - `output`: Directory for generated outputs
 
-### Slot Distribution Criteria
+## Slot Distribution Criteria
 
 1. **Team Data Extraction**  
    Team standings are parsed from all contests listed in `contests.json`.
