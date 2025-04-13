@@ -27,6 +27,7 @@ Along with generating rankings, the project also automatically distributes conte
 
    - **`contests.json`**: Contains information about the contests, including their names, filenames (which should correspond to the HTML files of the contests), and the parser to be used
    - **`institutions.json`**: Lists institutions and their alternate names
+   - **`registered.txt`**: Lists the names of registered institutions (one per line)
    - **`credits.json`**: Specifies the weights assigned to each contest for ranking
    - **`options.json`**: Defines configurable parameters for the slot distribution process
    - **HTML files**: These should be placed in the `input/contest_files` directory. The HTML pages should be directly saved from the standings pages of online judges. Currently, the supported OJs are Toph and BAPSOJ.
@@ -41,6 +42,7 @@ Along with generating rankings, the project also automatically distributes conte
 - `input/contest_files/`: Directory containing HTML files for each contest
 - `input/contests.json`: JSON file with contest details
 - `input/institutions.json`: JSON file with institution details
+- `input/registered.txt`: Text file with institutions registered for this contest
 - `input/credits.json`: JSON file with credits for each contest
 - `input/options.json`: JSON file with configurable parameters for the slot distribution process
 - `output`: Directory for generated outputs

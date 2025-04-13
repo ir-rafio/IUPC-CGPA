@@ -24,11 +24,24 @@
       "alt_names": []
     },
     {
+      "name": "ATISH DIPANKAR UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+      "alt_names": []
+    },
+    {
       "name": "BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY",
       "alt_names": [
         "BAIUST, COMILLA",
         "BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE & TECHNOLOGY (BAIUST), COMILLA",
-        "BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE & TECHNOLOGY(BAIUST) ,COMILLA"
+        "BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE & TECHNOLOGY(BAIUST) ,COMILLA",
+        "BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE & TECHNOLOGY",
+        "BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE & TECHNOLOGY(BAIUST), COMILLA"
+      ]
+    },
+    {
+      "name": "BANGLADESH ARMY UNIVERSITY OF ENGINEERING AND TECHNOLOGY",
+      "alt_names": [
+        "BANGLADESH ARMY UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "BANGLADESH ARMY UNIVERSITY OF ENGINEERING AND TECHNOLOGY (BAUET), QADIRABAD"
       ]
     },
     {
@@ -38,12 +51,8 @@
       ]
     },
     {
-      "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY",
+      "name": "BANGLADESH AGRICULTURAL UNIVERSITY",
       "alt_names": []
-    },
-    {
-      "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
-      "alt_names": ["BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ"]
     },
     {
       "name": "BANGLADESH OPEN UNIVERSITY",
@@ -69,11 +78,51 @@
       "alt_names": []
     },
     {
+      "name": "BANGLADESH UNIVERSITY OF TEXTILES",
+      "alt_names": []
+    },
+    {
+      "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY",
+      "alt_names": [
+        "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY,BANGLADESH"
+      ]
+    },
+    {
+      "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+      "alt_names": [
+        "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY"
+      ]
+    },
+    {
+      "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+      "alt_names": ["BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ"]
+    },
+    {
+      "name": "BANGAMATA SHEIKH FOJILATUNNESA MUJIB SCIENCE AND TECHNOLOGY UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "BARISAL INFORMATION TECHNOLOGY COLLEGE",
+      "alt_names": []
+    },
+    {
       "name": "BEGUM ROKEYA UNIVERSITY, RANGPUR",
       "alt_names": ["BEGUM ROKEYA UNIVERSITY RANGPUR"]
     },
     {
+      "name": "BGC TRUST UNIVERSITY BANGLADESH",
+      "alt_names": []
+    },
+    {
       "name": "BRAC UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "BRAHMANBARIA POLYTECHNIC INSTITUTE",
+      "alt_names": []
+    },
+    {
+      "name": "CANADIAN UNIVERSITY OF BANGLADESH",
       "alt_names": []
     },
     {
@@ -81,7 +130,23 @@
       "alt_names": ["CCN UNIVERSITY OF SCIENCE & TECHNOLOGY"]
     },
     {
+      "name": "CENTRAL UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+      "alt_names": []
+    },
+    {
+      "name": "CENTRAL WOMENS UNIVERSITY",
+      "alt_names": []
+    },
+    {
       "name": "CHANDPUR SCIENCE AND TECHNOLOGY UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "CHATTOGRAM POLYTECHNIC INSTITUTE",
+      "alt_names": []
+    },
+    {
+      "name": "CHITTAGONG INDEPENDENT UNIVERSITY",
       "alt_names": []
     },
     {
@@ -94,11 +159,15 @@
       ]
     },
     {
-      "name": "COMILLA UNIVERSITY",
+      "name": "CITY UNIVERSITY",
       "alt_names": []
     },
     {
-      "name": "DAFFODIL INTERNATIONAL UNIVERSITY",
+      "name": "COLLEGE OF BUSINESS SCIENCE AND TECHNOLOGY, MYMENSINGH",
+      "alt_names": []
+    },
+    {
+      "name": "COMILLA UNIVERSITY",
       "alt_names": []
     },
     {
@@ -106,8 +175,24 @@
       "alt_names": ["DAFFODIL INSTITUTE OF INFORMATION TECHNOLOGY"]
     },
     {
+      "name": "DAFFODIL INTERNATIONAL UNIVERSITY",
+      "alt_names": ["DAFFODIL INTERNATION UNIVERSITY"]
+    },
+    {
+      "name": "DHAKA CITY COLLEGE",
+      "alt_names": []
+    },
+    {
       "name": "DHAKA INTERNATIONAL UNIVERSITY",
       "alt_names": []
+    },
+    {
+      "name": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+      "alt_names": [
+        "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY, GAZIPUR",
+        "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY",
+        "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY - GAZIPUR"
+      ]
     },
     {
       "name": "EAST DELTA UNIVERSITY",
@@ -118,12 +203,28 @@
       "alt_names": []
     },
     {
+      "name": "EASTERN UNIVERSITY OF BANGLADESH",
+      "alt_names": []
+    },
+    {
+      "name": "FAREAST INTERNATIONAL UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "FARIDPUR ENGINEERING COLLEGE",
+      "alt_names": []
+    },
+    {
       "name": "FENI UNIVERSITY",
       "alt_names": []
     },
     {
+      "name": "GERMAN UNIVERSITY BANGLADESH",
+      "alt_names": []
+    },
+    {
       "name": "GONO BISHWABIDYALAY (GONO UNIVERSITY)",
-      "alt_names": ["GONO BISHWABIDYALAY"]
+      "alt_names": ["GONO BISHWABIDYALAY", "GONO UNIVERSITY"]
     },
     {
       "name": "GREEN UNIVERSITY OF BANGLADESH",
@@ -132,6 +233,18 @@
     {
       "name": "HAJEE MOHAMMAD DANESH SCIENCE AND TECHNOLOGY UNIVERSITY",
       "alt_names": ["HAJEE MOHAMMAD DANESH SCIENCE & TECHNOLOGY UNIVERSITY"]
+    },
+    {
+      "name": "HAMDARD UNIVERSITY BANGLADESH",
+      "alt_names": []
+    },
+    {
+      "name": "HEADWAY ENGINEERING INSTITUTE | SYLHET",
+      "alt_names": []
+    },
+    {
+      "name": "IMPERIAL COLLEGE OF ENGINEERING, KHULNA",
+      "alt_names": []
     },
     {
       "name": "INDEPENDENT UNIVERSITY, BANGLADESH",
@@ -146,14 +259,31 @@
       "alt_names": []
     },
     {
+      "name": "INSTITUTE OF SCIENCE TRADE & TECHNOLOGY (ISTT)",
+      "alt_names": ["INSTITUTE OF SCIENCE TRADE AND TECHNOLOGY"]
+    },
+    {
       "name": "INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG",
+      "alt_names": []
+    },
+    {
+      "name": "INTERNATIONAL ISLAMI UNIVERSITY OF SCIENCE AND TECHNOLOGY BANGLADESH",
+      "alt_names": []
+    },
+    {
+      "name": "INTERNATIONAL STANDARD UNIVERSITY",
       "alt_names": []
     },
     {
       "name": "INTERNATIONAL UNIVERSITY OF BUSINESS AGRICULTURE & TECHNOLOGY",
       "alt_names": [
-        "INTERNATIONAL UNIVERSITY OF BUSINESS AGRICULTURE AND TECHNOLOGY"
+        "INTERNATIONAL UNIVERSITY OF BUSINESS AGRICULTURE AND TECHNOLOGY",
+        "INTERNATIONAL UNIVERSITY OF BUSINESS AGRICULTURE AND TECHNOLOGY-IUBAT"
       ]
+    },
+    {
+      "name": "INTERNATIONAL UNIVERSITY OF SCHOLARS",
+      "alt_names": ["UNIVERSITY OF SCHOLARS"]
     },
     {
       "name": "ISLAMIC UNIVERSITY",
@@ -176,6 +306,10 @@
       "alt_names": ["JESSORE UNIVERSITY OF SCIENCE & TECHNOLOGY"]
     },
     {
+      "name": "JATIYA KABI KAZI NAZRUL ISLAM UNIVERSITY",
+      "alt_names": []
+    },
+    {
       "name": "KHULNA UNIVERSITY",
       "alt_names": []
     },
@@ -192,6 +326,10 @@
     },
     {
       "name": "LEADING UNIVERSITY",
+      "alt_names": ["LEADING UNIVERSITY, SYLHET"]
+    },
+    {
+      "name": "MANARAT INTERNATIONAL UNIVERSITY",
       "alt_names": []
     },
     {
@@ -210,8 +348,26 @@
       ]
     },
     {
+      "name": "MYMENSINGH ENGINEERING COLLEGE",
+      "alt_names": []
+    },
+    {
+      "name": "NATIONAL INSTITUTE OF TEXTILE ENGINEERING AND RESEARCH",
+      "alt_names": [
+        "NATIONAL INSTITUTE OF TEXTILE ENGINEERING AND RESEARCH - NITER"
+      ]
+    },
+    {
+      "name": "NATIONAL UNIVERSITY",
+      "alt_names": []
+    },
+    {
       "name": "NOAKHALI SCIENCE & TECHNOLOGY UNIVERSITY",
-      "alt_names": ["NOAKHALI SCIENCE AND TECHNOLOGY UNIVERSITY"]
+      "alt_names": [
+        "NOAKHALI SCIENCE AND TECHNOLOGY UNIVERSITY",
+        "NOAKHALI SCIENCE AND TECHNOLOGY",
+        "NOAKHALI SCIENCE AND TECHNOLOGY UNIOVERSITY"
+      ]
     },
     {
       "name": "NORTH EAST UNIVERSITY BANGLADESH",
@@ -222,12 +378,23 @@
       "alt_names": []
     },
     {
+      "name": "NORTH WESTERN UNIVERSITY, KHULNA",
+      "alt_names": []
+    },
+    {
       "name": "NORTHERN UNIVERSITY BANGLADESH",
       "alt_names": ["NORTHERN UNIVERSITY OF BANGLADESH"]
     },
     {
       "name": "NORTHERN UNIVERSITY OF BUSINESS AND TECHNOLOGY",
-      "alt_names": ["NORTHERN UNIVERSITY OF BUSINESS & TECHNOLOGY, KHULNA"]
+      "alt_names": [
+        "NORTHERN UNIVERSITY OF BUSINESS & TECHNOLOGY, KHULNA",
+        "NORTHERN UNIVERSITY OF BUSINESS AND TECHNOLOGY KHULNA"
+      ]
+    },
+    {
+      "name": "NOTRE DAME UNIVERSITY BANGLADESH",
+      "alt_names": []
     },
     {
       "name": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
@@ -243,10 +410,21 @@
     },
     {
       "name": "PREMIER UNIVERSITY",
-      "alt_names": ["PREMIER UNIVERSITY CHITTAGONG"]
+      "alt_names": [
+        "PREMIER UNIVERSITY CHITTAGONG",
+        "PREMIER UNIVERSITY, CHITTAGONG"
+      ]
+    },
+    {
+      "name": "PRESIDENCY UNIVERSITY",
+      "alt_names": []
     },
     {
       "name": "PRIME UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "PRIMEASIA UNIVERSITY",
       "alt_names": []
     },
     {
@@ -267,7 +445,19 @@
       ]
     },
     {
+      "name": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+      "alt_names": []
+    },
+    {
       "name": "RANGPUR ENGINEERING COLLEGE",
+      "alt_names": ["RANGPUR ENGINEERING COLLEGE,RANGPUR"]
+    },
+    {
+      "name": "RANGPUR POLYTECHNIC INSTITUTE",
+      "alt_names": []
+    },
+    {
+      "name": "RTM AL-KABIR TECHNICAL UNIVERSITY",
       "alt_names": []
     },
     {
@@ -283,7 +473,31 @@
       "alt_names": ["SHANTO-MARIAM UNIVERSITY OF CREATIVE TECHNOLOGY"]
     },
     {
+      "name": "SHEIKH FAZILATUNNESA MUJIB UNIVERSITY",
+      "alt_names": []
+    },
+    {
       "name": "SHEIKH HASINA UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "SONARGAON UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "SOUTHEAST UNIVERSITY",
+      "alt_names": ["SOUTHEAST UNIVERSITY, BANGLADESH"]
+    },
+    {
+      "name": "SOUTHERN UNIVERSITY BANGLADESH",
+      "alt_names": []
+    },
+    {
+      "name": "STATE UNIVERSITY OF BANGLADESH",
+      "alt_names": []
+    },
+    {
+      "name": "SUNAMGONJ SCIENCE & TECHNOLOGY UNIVERSITY",
       "alt_names": []
     },
     {
@@ -295,6 +509,18 @@
       "alt_names": []
     },
     {
+      "name": "TEESTA UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "TEJGAON COLLEGE",
+      "alt_names": []
+    },
+    {
+      "name": "TMSS ENGINEERING COLLEGE",
+      "alt_names": []
+    },
+    {
       "name": "UNITED INTERNATIONAL UNIVERSITY",
       "alt_names": []
     },
@@ -303,7 +529,15 @@
       "alt_names": []
     },
     {
+      "name": "UNIVERSITY OF BARISAL",
+      "alt_names": ["UNIVERSITY OF BARISHAL"]
+    },
+    {
       "name": "UNIVERSITY OF CHITTAGONG",
+      "alt_names": []
+    },
+    {
+      "name": "UNIVERSITY OF CREATIVE TECHNOLOGY, CHITTAGONG",
       "alt_names": []
     },
     {
@@ -315,8 +549,16 @@
       "alt_names": []
     },
     {
+      "name": "UNIVERSITY OF GLOBAL VILLAGE",
+      "alt_names": []
+    },
+    {
       "name": "UNIVERSITY OF INFORMATION TECHNOLOGY & SCIENCES",
       "alt_names": ["UNIVERSITY OF INFORMATION TECHNOLOGY AND SCIENCES"]
+    },
+    {
+      "name": "UNIVERSITY OF LIBERAL ARTS BANGLADESH",
+      "alt_names": []
     },
     {
       "name": "UNIVERSITY OF RAJSHAHI",
@@ -324,6 +566,18 @@
     },
     {
       "name": "UTTARA UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "VARENDRA UNIVERSITY",
+      "alt_names": []
+    },
+    {
+      "name": "WORLD UNIVERSITY OF BANGLADESH",
+      "alt_names": []
+    },
+    {
+      "name": "Z. H. SIKDER UNIVERSITY OF SCIENCE AND TECHNOLOGY",
       "alt_names": []
     }
   ]
