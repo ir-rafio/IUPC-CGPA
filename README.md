@@ -35,7 +35,7 @@ Along with generating rankings, the project also automatically distributes conte
 4. **Run the Analysis**:
    Once the environment is set up and the necessary files are in place, run the Jupyter notebook `notebook.ipynb` to perform the analysis.
 
-## Overview of Key Files
+## Overview of Key Files/Directories
 
 - `environment.yml`: Conda environment configuration
 - `notebook.ipynb`: Jupyter notebook with the rating logic and analysis
