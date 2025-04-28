@@ -40,10 +40,6 @@
       ]
     },
     {
-      "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
-      "alt_names": ["BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ"]
-    },
-    {
       "name": "BANGAMATA SHEIKH FOJILATUNNESA MUJIB SCIENCE AND TECHNOLOGY UNIVERSITY",
       "alt_names": []
     },
@@ -363,7 +359,10 @@
     },
     {
       "name": "KISHOREGANJ UNIVERSITY",
-      "alt_names": []
+      "alt_names": [
+        "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+        "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ"
+      ]
     },
     {
       "name": "LEADING UNIVERSITY",
