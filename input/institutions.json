@@ -404,10 +404,6 @@
       "alt_names": []
     },
     {
-      "name": "NETROKONA UNIVERSITY",
-      "alt_names": []
-    },
-    {
       "name": "NOAKHALI SCIENCE & TECHNOLOGY UNIVERSITY",
       "alt_names": [
         "NOAKHALI SCIENCE AND TECHNOLOGY",
@@ -527,8 +523,8 @@
       "alt_names": []
     },
     {
-      "name": "SHEIKH HASINA UNIVERSITY",
-      "alt_names": []
+      "name": "NETROKONA UNIVERSITY",
+      "alt_names": ["SHEIKH HASINA UNIVERSITY"]
     },
     {
       "name": "SIMT ENGINEERING COLLEGE",

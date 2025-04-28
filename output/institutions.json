@@ -1,5 +1,15 @@
 [
     {
+        "name": "AHSANIA MISSION UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "alt_names": [],
+        "contest_map": {}
+    },
+    {
+        "name": "AHSANULLAH INSTITUTE OF INFORMATION AND COMMUNICATION TECHNOLOGY",
+        "alt_names": [],
+        "contest_map": {}
+    },
+    {
         "name": "AHSANULLAH UNIVERSITY OF SCIENCE AND TECHNOLOGY",
         "alt_names": [],
         "contest_map": {
@@ -435,6 +445,280 @@
                     "institution": "ASIAN UNIVERSITY OF BANGLADESH",
                     "solved": 2,
                     "penalty": 490,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "ATISH DIPANKAR UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 272,
+                    "name": "ADUST_ByteBusters",
+                    "institution": "ATISH DIPANKAR UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY",
+        "alt_names": [
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY,BANGLADESH"
+        ],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 246,
+                    "name": "error_404",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY,BANGLADESH",
+                    "solved": 1,
+                    "penalty": 96,
+                    "first_solve_count": 0
+                }
+            ],
+            "UIU 2025": [
+                {
+                    "rank": 94,
+                    "name": "BDU_error_404",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY",
+                    "solved": 3,
+                    "penalty": 179,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+        "alt_names": [
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY"
+        ],
+        "contest_map": {
+            "NCPC 2024": [
+                {
+                    "rank": 57,
+                    "name": "BSMRSTU_Suprobhat",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY",
+                    "solved": 5,
+                    "penalty": 755,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 150,
+                    "name": "BSMRSTU_Triple_One",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY",
+                    "solved": 3,
+                    "penalty": 749,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 184,
+                    "name": "BSMRSTU_Perfect_Number",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY",
+                    "solved": 1,
+                    "penalty": 99,
+                    "first_solve_count": 0
+                }
+            ],
+            "BUET 2024": [
+                {
+                    "rank": 72,
+                    "name": "BSMRSTU_Imaginators",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 4,
+                    "penalty": 646,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 156,
+                    "name": "BSMRSTU_Imaginators",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 84,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 179,
+                    "name": "BSMRSTU_Cipherpol_0",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 259,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 194,
+                    "name": "BSMRSTU_Unit_7",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 345,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 76,
+                    "name": "BSMRSTU Unit_7",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 106,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 84,
+                    "name": "BSMRSTU_CodeFury",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 191,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+        "alt_names": [
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ"
+        ],
+        "contest_map": {
+            "CUET 2024": [
+                {
+                    "rank": 85,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 1,
+                    "penalty": 4,
+                    "first_solve_count": 0
+                }
+            ],
+            "SUST 2024": [
+                {
+                    "rank": 80,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 3,
+                    "penalty": 358,
+                    "first_solve_count": 0
+                }
+            ],
+            "NCPC 2024": [
+                {
+                    "rank": 156,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 2,
+                    "penalty": 127,
+                    "first_solve_count": 0
+                }
+            ],
+            "IUT 2024": [
+                {
+                    "rank": 85,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+                    "solved": 1,
+                    "penalty": 67,
+                    "first_solve_count": 0
+                }
+            ],
+            "BUET 2024": [
+                {
+                    "rank": 94,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 3,
+                    "penalty": 597,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 208,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 2,
+                    "penalty": 398,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 298,
+                    "name": "BSMRU_Terminators",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 114,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 1,
+                    "penalty": 35,
+                    "first_solve_count": 0
+                }
+            ],
+            "UIU 2025": [
+                {
+                    "rank": 101,
+                    "name": "BSMRU_KnullStates",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+                    "solved": 3,
+                    "penalty": 204,
+                    "first_solve_count": 0
+                }
+            ],
+            "AUST 2025": [
+                {
+                    "rank": 120,
+                    "name": "BSMRU_Null_State",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 2,
+                    "penalty": 60,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "BANGAMATA SHEIKH FOJILATUNNESA MUJIB SCIENCE AND TECHNOLOGY UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "CUET 2024": [
+                {
+                    "rank": 77,
+                    "name": "BSFMSTU_LEGION",
+                    "institution": "BANGAMATA SHEIKH FOJILATUNNESA MUJIB SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 323,
+                    "first_solve_count": 0
+                }
+            ],
+            "IUT 2024": [
+                {
+                    "rank": 99,
+                    "name": "BSFMSTU_LEGION",
+                    "institution": "BANGAMATA SHEIKH FOJILATUNNESA MUJIB SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 1,
+                    "penalty": 161,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 177,
+                    "name": "BSFMSTU_LEGION",
+                    "institution": "BANGAMATA SHEIKH FOJILATUNNESA MUJIB SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 246,
                     "first_solve_count": 0
                 }
             ]
@@ -1626,6 +1910,38 @@
         }
     },
     {
+        "name": "BANGLADESH UNIVERSITY OF TEXTILES",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 204,
+                    "name": "BUTEX_STRANGERS",
+                    "institution": "BANGLADESH UNIVERSITY OF TEXTILES",
+                    "solved": 2,
+                    "penalty": 379,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "BARISAL INFORMATION TECHNOLOGY COLLEGE",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 306,
+                    "name": "problem_eliminator",
+                    "institution": "BARISAL INFORMATION TECHNOLOGY COLLEGE",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "BEGUM ROKEYA UNIVERSITY, RANGPUR",
         "alt_names": [
             "BEGUM ROKEYA UNIVERSITY RANGPUR"
@@ -1734,6 +2050,40 @@
                     "institution": "BEGUM ROKEYA UNIVERSITY, RANGPUR",
                     "solved": 2,
                     "penalty": 26,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "BGC TRUST UNIVERSITY BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "NCPC 2024": [
+                {
+                    "rank": 180,
+                    "name": "BGC_Team_Dim",
+                    "institution": "BGC TRUST UNIVERSITY BANGLADESH",
+                    "solved": 1,
+                    "penalty": 91,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 240,
+                    "name": "BGC_Team_Dim",
+                    "institution": "BGC TRUST UNIVERSITY BANGLADESH",
+                    "solved": 1,
+                    "penalty": 57,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 276,
+                    "name": "BGCTUB_Radium",
+                    "institution": "BGC TRUST UNIVERSITY BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
@@ -2052,6 +2402,42 @@
         }
     },
     {
+        "name": "CANADIAN UNIVERSITY OF BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "IUT 2024": [
+                {
+                    "rank": 100,
+                    "name": "CUB_NerdCoders",
+                    "institution": "CANADIAN UNIVERSITY OF BANGLADESH",
+                    "solved": 1,
+                    "penalty": 167,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 278,
+                    "name": "CUB_ARTEMIS",
+                    "institution": "CANADIAN UNIVERSITY OF BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "UIU 2025": [
+                {
+                    "rank": 154,
+                    "name": "CUB_ARTEMIS",
+                    "institution": "CANADIAN UNIVERSITY OF BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "CCN UNIVERSITY OF SCIENCE AND TECHNOLOGY",
         "alt_names": [
             "CCN UNIVERSITY OF SCIENCE & TECHNOLOGY"
@@ -2082,6 +2468,38 @@
                     "institution": "CCN UNIVERSITY OF SCIENCE AND TECHNOLOGY",
                     "solved": 2,
                     "penalty": 293,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "CENTRAL UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 267,
+                    "name": "CUST_COMET",
+                    "institution": "CENTRAL UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "CENTRAL WOMENS UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 299,
+                    "name": "CWU_NoobCoders",
+                    "institution": "CENTRAL WOMENS UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
@@ -2663,6 +3081,22 @@
                     "institution": "CITY UNIVERSITY",
                     "solved": 1,
                     "penalty": 166,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "COLLEGE OF BUSINESS SCIENCE AND TECHNOLOGY, MYMENSINGH",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 304,
+                    "name": "CBST_Noob_Solvers",
+                    "institution": "COLLEGE OF BUSINESS SCIENCE AND TECHNOLOGY, MYMENSINGH",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
@@ -3418,6 +3852,93 @@
         "contest_map": {}
     },
     {
+        "name": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "alt_names": [
+            "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY, GAZIPUR",
+            "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY",
+            "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY - GAZIPUR",
+            "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY (DUET)"
+        ],
+        "contest_map": {
+            "SUST 2024": [
+                {
+                    "rank": 68,
+                    "name": "Still_Alive",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+                    "solved": 3,
+                    "penalty": 286,
+                    "first_solve_count": 0
+                }
+            ],
+            "NCPC 2024": [
+                {
+                    "rank": 82,
+                    "name": "Still Alive",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+                    "solved": 4,
+                    "penalty": 390,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 126,
+                    "name": "DUETWABoys",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+                    "solved": 3,
+                    "penalty": 280,
+                    "first_solve_count": 0
+                }
+            ],
+            "IUT 2024": [
+                {
+                    "rank": 81,
+                    "name": "Still Alive",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY",
+                    "solved": 1,
+                    "penalty": 60,
+                    "first_solve_count": 0
+                }
+            ],
+            "BUET 2024": [
+                {
+                    "rank": 73,
+                    "name": "DUET_Triplet",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY, GAZIPUR",
+                    "solved": 4,
+                    "penalty": 665,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 49,
+                    "name": "DUET_RAD",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY - GAZIPUR",
+                    "solved": 3,
+                    "penalty": 187,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 121,
+                    "name": "DUET_CHAMPS",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY - GAZIPUR",
+                    "solved": 3,
+                    "penalty": 443,
+                    "first_solve_count": 0
+                }
+            ],
+            "AUST 2025": [
+                {
+                    "rank": 76,
+                    "name": "DUET_RAD",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+                    "solved": 3,
+                    "penalty": 144,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "EAST DELTA UNIVERSITY",
         "alt_names": [
             "EAST DELTA UNIVERSITY, CHITTAGONG"
@@ -3742,9 +4263,41 @@
         }
     },
     {
+        "name": "EASTERN UNIVERSITY OF BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 286,
+                    "name": "EU_ByteBusters",
+                    "institution": "EASTERN UNIVERSITY OF BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "EUROPEAN UNIVERSITY OF BANGLADESH",
         "alt_names": [],
         "contest_map": {}
+    },
+    {
+        "name": "FAREAST INTERNATIONAL UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 245,
+                    "name": "FIU_Acrobat",
+                    "institution": "FAREAST INTERNATIONAL UNIVERSITY",
+                    "solved": 1,
+                    "penalty": 93,
+                    "first_solve_count": 0
+                }
+            ]
+        }
     },
     {
         "name": "FARIDPUR ENGINEERING COLLEGE",
@@ -3849,6 +4402,51 @@
                     "institution": "FENI UNIVERSITY",
                     "solved": 3,
                     "penalty": 154,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "GERMAN UNIVERSITY BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 293,
+                    "name": "GUB_Zettabyte",
+                    "institution": "GERMAN UNIVERSITY BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "GONO BISHWABIDYALAY (GONO UNIVERSITY)",
+        "alt_names": [
+            "GONO BISHWABIDYALAY",
+            "GONO UNIVERSITY"
+        ],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 169,
+                    "name": "GB_Proxima",
+                    "institution": "GONO BISHWABIDYALAY (GONO UNIVERSITY)",
+                    "solved": 2,
+                    "penalty": 201,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 130,
+                    "name": "GB_Proxima",
+                    "institution": "GONO UNIVERSITY",
+                    "solved": 1,
+                    "penalty": 66,
                     "first_solve_count": 0
                 }
             ]
@@ -4164,6 +4762,38 @@
         }
     },
     {
+        "name": "HAMDARD UNIVERSITY BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 264,
+                    "name": "Brogrammers",
+                    "institution": "HAMDARD UNIVERSITY BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "HEADWAY ENGINEERING INSTITUTE | SYLHET",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 288,
+                    "name": "HEI_Code_Creepers",
+                    "institution": "HEADWAY ENGINEERING INSTITUTE | SYLHET",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "IMPERIAL COLLEGE OF ENGINEERING, KHULNA",
         "alt_names": [
             "IMPERIAL COLLEGE OF ENGINEERING"
@@ -4392,6 +5022,70 @@
                     "institution": "INSTITUTE OF SCIENCE AND TECHNOLOGY",
                     "solved": 3,
                     "penalty": 98,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "INSTITUTE OF SCIENCE TRADE & TECHNOLOGY (ISTT)",
+        "alt_names": [
+            "INSTITUTE OF SCIENCE TRADE AND TECHNOLOGY"
+        ],
+        "contest_map": {
+            "NCPC 2024": [
+                {
+                    "rank": 177,
+                    "name": "ISTT_LABRATS",
+                    "institution": "INSTITUTE OF SCIENCE TRADE & TECHNOLOGY (ISTT)",
+                    "solved": 1,
+                    "penalty": 72,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 164,
+                    "name": "ISTT_SHADOWS",
+                    "institution": "INSTITUTE OF SCIENCE TRADE AND TECHNOLOGY",
+                    "solved": 2,
+                    "penalty": 163,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "INTERNATIONAL ISLAMI UNIVERSITY OF SCIENCE AND TECHNOLOGY BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "BUET 2024": [
+                {
+                    "rank": 104,
+                    "name": "IIUSTB_Silencer",
+                    "institution": "INTERNATIONAL ISLAMI UNIVERSITY OF SCIENCE AND TECHNOLOGY BANGLADESH",
+                    "solved": 2,
+                    "penalty": 397,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 252,
+                    "name": "IIUSTB_Al-khwarizm",
+                    "institution": "INTERNATIONAL ISLAMI UNIVERSITY OF SCIENCE AND TECHNOLOGY BANGLADESH",
+                    "solved": 1,
+                    "penalty": 304,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 131,
+                    "name": "IIUSTB_Al-khwarizm",
+                    "institution": "INTERNATIONAL ISLAMI UNIVERSITY OF SCIENCE AND TECHNOLOGY BANGLADESH",
+                    "solved": 1,
+                    "penalty": 67,
                     "first_solve_count": 0
                 }
             ]
@@ -4756,6 +5450,32 @@
                     "institution": "INTERNATIONAL UNIVERSITY OF BUSINESS AGRICULTURE AND TECHNOLOGY-IUBAT",
                     "solved": 1,
                     "penalty": 30,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "INTERNATIONAL UNIVERSITY OF SCHOLARS",
+        "alt_names": [
+            "UNIVERSITY OF SCHOLARS"
+        ],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 201,
+                    "name": "Scholars_Byte_Brigade",
+                    "institution": "UNIVERSITY OF SCHOLARS",
+                    "solved": 2,
+                    "penalty": 369,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 280,
+                    "name": "IUS_Algo_Blanco's",
+                    "institution": "INTERNATIONAL UNIVERSITY OF SCHOLARS",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
@@ -6852,6 +7572,22 @@
         }
     },
     {
+        "name": "MANARAT INTERNATIONAL UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 295,
+                    "name": "MIU_Debug_Overflow",
+                    "institution": "MANARAT INTERNATIONAL UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "MAWLANA BHASHANI SCIENCE & TECHNOLOGY UNIVERSITY",
         "alt_names": [
             "MAWLANA BHASHANI SCIENCE AND TECHNOLOGY UNIVERSITY"
@@ -7652,11 +8388,6 @@
         }
     },
     {
-        "name": "NETROKONA UNIVERSITY",
-        "alt_names": [],
-        "contest_map": {}
-    },
-    {
         "name": "NOAKHALI SCIENCE & TECHNOLOGY UNIVERSITY",
         "alt_names": [
             "NOAKHALI SCIENCE AND TECHNOLOGY",
@@ -8133,6 +8864,78 @@
         }
     },
     {
+        "name": "NORTH WESTERN UNIVERSITY, KHULNA",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 158,
+                    "name": "NWU_Dreamers",
+                    "institution": "NORTH WESTERN UNIVERSITY, KHULNA",
+                    "solved": 2,
+                    "penalty": 127,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 297,
+                    "name": "NWU_Sigma",
+                    "institution": "NORTH WESTERN UNIVERSITY, KHULNA",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "NORTHERN UNIVERSITY BANGLADESH",
+        "alt_names": [
+            "NORTHERN UNIVERSITY OF BANGLADESH"
+        ],
+        "contest_map": {
+            "IUT 2024": [
+                {
+                    "rank": 108,
+                    "name": "Team Return Zero",
+                    "institution": "NORTHERN UNIVERSITY OF BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 189,
+                    "name": "NUB_Triverse",
+                    "institution": "NORTHERN UNIVERSITY BANGLADESH",
+                    "solved": 2,
+                    "penalty": 322,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 115,
+                    "name": "NUB_TRIVERSE",
+                    "institution": "NORTHERN UNIVERSITY BANGLADESH",
+                    "solved": 1,
+                    "penalty": 39,
+                    "first_solve_count": 0
+                }
+            ],
+            "UIU 2025": [
+                {
+                    "rank": 141,
+                    "name": "NUB_ABC",
+                    "institution": "NORTHERN UNIVERSITY BANGLADESH",
+                    "solved": 2,
+                    "penalty": 438,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "NORTHERN UNIVERSITY OF BUSINESS AND TECHNOLOGY",
         "alt_names": [
             "NORTHERN UNIVERSITY OF BUSINESS & TECHNOLOGY, KHULNA",
@@ -8184,6 +8987,134 @@
                     "institution": "NORTHERN UNIVERSITY OF BUSINESS AND TECHNOLOGY",
                     "solved": 2,
                     "penalty": 158,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "NOTRE DAME UNIVERSITY BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "IUT 2024": [
+                {
+                    "rank": 108,
+                    "name": "NDUB_Newbies",
+                    "institution": "NOTRE DAME UNIVERSITY BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 277,
+                    "name": "NDUB_Backslash",
+                    "institution": "NOTRE DAME UNIVERSITY BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 156,
+                    "name": "NDUB_Backslash",
+                    "institution": "NOTRE DAME UNIVERSITY BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "AUST 2025": [
+                {
+                    "rank": 122,
+                    "name": "NDUB_Backslash",
+                    "institution": "NOTRE DAME UNIVERSITY BANGLADESH",
+                    "solved": 2,
+                    "penalty": 75,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "alt_names": [],
+        "contest_map": {
+            "NCPC 2024": [
+                {
+                    "rank": 171,
+                    "name": "Tortoises",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 2,
+                    "penalty": 470,
+                    "first_solve_count": 0
+                }
+            ],
+            "IUT 2024": [
+                {
+                    "rank": 103,
+                    "name": "Troublemakers_PUST",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 1,
+                    "penalty": 270,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 151,
+                    "name": "PUST_RESTART",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 3,
+                    "penalty": 700,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 243,
+                    "name": "PUST_Codo_Sapiens",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 1,
+                    "penalty": 63,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 55,
+                    "name": "The_Zazaabors",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 3,
+                    "penalty": 426,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 96,
+                    "name": "PUST_Codo_Sapiens",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 2,
+                    "penalty": 322,
+                    "first_solve_count": 0
+                }
+            ],
+            "UIU 2025": [
+                {
+                    "rank": 103,
+                    "name": "The_Zazaabors",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 3,
+                    "penalty": 211,
+                    "first_solve_count": 0
+                }
+            ],
+            "AUST 2025": [
+                {
+                    "rank": 124,
+                    "name": "PUST_CODE_SHOW",
+                    "institution": "PABNA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 2,
+                    "penalty": 111,
                     "first_solve_count": 0
                 }
             ]
@@ -8535,6 +9466,22 @@
                     "institution": "PRIME UNIVERSITY",
                     "solved": 3,
                     "penalty": 97,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "PRIMEASIA UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 275,
+                    "name": "PAU_TriCoders",
+                    "institution": "PRIMEASIA UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
@@ -9074,6 +10021,58 @@
         }
     },
     {
+        "name": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "CUET 2024": [
+                {
+                    "rank": 61,
+                    "name": "Zero or One",
+                    "institution": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 2,
+                    "penalty": 179,
+                    "first_solve_count": 0
+                }
+            ],
+            "NCPC 2024": [
+                {
+                    "rank": 102,
+                    "name": "RMSTU_Alpha_Centauri",
+                    "institution": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 4,
+                    "penalty": 570,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 196,
+                    "name": "RMSTU_Chasers",
+                    "institution": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 101,
+                    "name": "Alpha_Centauri",
+                    "institution": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 3,
+                    "penalty": 370,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 150,
+                    "name": "Zero or One",
+                    "institution": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "solved": 3,
+                    "penalty": 680,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "RANGPUR ENGINEERING COLLEGE",
         "alt_names": [
             "RANGPUR ENGINEERING COLLEGE,RANGPUR"
@@ -9096,6 +10095,48 @@
                     "institution": "RANGPUR ENGINEERING COLLEGE",
                     "solved": 1,
                     "penalty": 52,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "RANGPUR POLYTECHNIC INSTITUTE",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 244,
+                    "name": "RPI_Starter",
+                    "institution": "RANGPUR POLYTECHNIC INSTITUTE",
+                    "solved": 1,
+                    "penalty": 78,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "RTM AL-KABIR TECHNICAL UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "IUT 2024": [
+                {
+                    "rank": 108,
+                    "name": "Binary_wizards",
+                    "institution": "RTM AL-KABIR TECHNICAL UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 256,
+                    "name": "Binary_wizards",
+                    "institution": "RTM AL-KABIR TECHNICAL UNIVERSITY",
+                    "solved": 1,
+                    "penalty": 349,
                     "first_solve_count": 0
                 }
             ]
@@ -9826,8 +10867,26 @@
         }
     },
     {
-        "name": "SHEIKH HASINA UNIVERSITY",
+        "name": "SHEIKH FAZILATUNNESA MUJIB UNIVERSITY",
         "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 281,
+                    "name": "SFMU_TRAILBLAZER",
+                    "institution": "SHEIKH FAZILATUNNESA MUJIB UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "NETROKONA UNIVERSITY",
+        "alt_names": [
+            "SHEIKH HASINA UNIVERSITY"
+        ],
         "contest_map": {
             "CUET 2024": [
                 {
@@ -10037,6 +11096,54 @@
                     "institution": "SOUTHEAST UNIVERSITY",
                     "solved": 3,
                     "penalty": 351,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "SOUTHERN UNIVERSITY BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 254,
+                    "name": "SUB_Tsunami",
+                    "institution": "SOUTHERN UNIVERSITY BANGLADESH",
+                    "solved": 1,
+                    "penalty": 323,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "STATE UNIVERSITY OF BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 250,
+                    "name": "SnowBell",
+                    "institution": "STATE UNIVERSITY OF BANGLADESH",
+                    "solved": 1,
+                    "penalty": 252,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "SUNAMGONJ SCIENCE & TECHNOLOGY UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "KUET 2025": [
+                {
+                    "rank": 150,
+                    "name": "SSTU_Binary_Bliss",
+                    "institution": "SUNAMGONJ SCIENCE & TECHNOLOGY UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
@@ -10275,6 +11382,22 @@
                     "rank": 156,
                     "name": "SIU_Fighters",
                     "institution": "SYLHET INTERNATIONAL UNIVERSITY",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "TEESTA UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 263,
+                    "name": "TU_CYBER_SQUAD",
+                    "institution": "TEESTA UNIVERSITY",
                     "solved": 0,
                     "penalty": 0,
                     "first_solve_count": 0
@@ -11021,6 +12144,27 @@
         }
     },
     {
+        "name": "UNIVERSITY OF CREATIVE TECHNOLOGY, CHITTAGONG",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 173,
+                    "name": "Uctc_Akatsuki",
+                    "institution": "UNIVERSITY OF CREATIVE TECHNOLOGY, CHITTAGONG",
+                    "solved": 2,
+                    "penalty": 228,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "UNIVERSITY OF DEVELOPMENT ALTERNATIVE",
+        "alt_names": [],
+        "contest_map": {}
+    },
+    {
         "name": "UNIVERSITY OF DHAKA",
         "alt_names": [],
         "contest_map": {
@@ -11461,6 +12605,32 @@
         }
     },
     {
+        "name": "UNIVERSITY OF GLOBAL VILLAGE",
+        "alt_names": [],
+        "contest_map": {
+            "IUT 2024": [
+                {
+                    "rank": 104,
+                    "name": "UGV_TR!X",
+                    "institution": "UNIVERSITY OF GLOBAL VILLAGE",
+                    "solved": 1,
+                    "penalty": 304,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 214,
+                    "name": "UGV_Team-404",
+                    "institution": "UNIVERSITY OF GLOBAL VILLAGE",
+                    "solved": 2,
+                    "penalty": 465,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
         "name": "UNIVERSITY OF INFORMATION TECHNOLOGY & SCIENCES",
         "alt_names": [
             "UNIVERSITY OF INFORMATION TECHNOLOGY AND SCIENCES",
@@ -11578,6 +12748,42 @@
                     "institution": "UNIVERSITY OF INFORMATION TECHNOLOGY & SCIENCES",
                     "solved": 2,
                     "penalty": 37,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "UNIVERSITY OF LIBERAL ARTS BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "IUT 2024": [
+                {
+                    "rank": 96,
+                    "name": "ULAB_Anonymous",
+                    "institution": "UNIVERSITY OF LIBERAL ARTS BANGLADESH",
+                    "solved": 1,
+                    "penalty": 102,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 187,
+                    "name": "ULAB_aNonyMOus",
+                    "institution": "UNIVERSITY OF LIBERAL ARTS BANGLADESH",
+                    "solved": 2,
+                    "penalty": 311,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 155,
+                    "name": "ULAB_aNonyMOus",
+                    "institution": "UNIVERSITY OF LIBERAL ARTS BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
@@ -11986,6 +13192,38 @@
                     "institution": "VARENDRA UNIVERSITY",
                     "solved": 3,
                     "penalty": 186,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "WORLD UNIVERSITY OF BANGLADESH",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 273,
+                    "name": "WUB Blue Vortex",
+                    "institution": "WORLD UNIVERSITY OF BANGLADESH",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "Z. H. SIKDER UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "alt_names": [],
+        "contest_map": {
+            "ICPC 2024": [
+                {
+                    "rank": 268,
+                    "name": "ZHSUST_Orions",
+                    "institution": "Z. H. SIKDER UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+                    "solved": 0,
+                    "penalty": 0,
                     "first_solve_count": 0
                 }
             ]
