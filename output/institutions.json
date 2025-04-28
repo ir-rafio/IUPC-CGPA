@@ -583,112 +583,6 @@
         }
     },
     {
-        "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
-        "alt_names": [
-            "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ"
-        ],
-        "contest_map": {
-            "CUET 2024": [
-                {
-                    "rank": 85,
-                    "name": "BSMRU_NewHorizon",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 1,
-                    "penalty": 4,
-                    "first_solve_count": 0
-                }
-            ],
-            "SUST 2024": [
-                {
-                    "rank": 80,
-                    "name": "BSMRU_NewHorizon",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 3,
-                    "penalty": 358,
-                    "first_solve_count": 0
-                }
-            ],
-            "NCPC 2024": [
-                {
-                    "rank": 156,
-                    "name": "BSMRU_NewHorizon",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 2,
-                    "penalty": 127,
-                    "first_solve_count": 0
-                }
-            ],
-            "IUT 2024": [
-                {
-                    "rank": 85,
-                    "name": "BSMRU_NewHorizon",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
-                    "solved": 1,
-                    "penalty": 67,
-                    "first_solve_count": 0
-                }
-            ],
-            "BUET 2024": [
-                {
-                    "rank": 94,
-                    "name": "BSMRU_NewHorizon",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 3,
-                    "penalty": 597,
-                    "first_solve_count": 0
-                }
-            ],
-            "ICPC 2024": [
-                {
-                    "rank": 208,
-                    "name": "BSMRU_NewHorizon",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 2,
-                    "penalty": 398,
-                    "first_solve_count": 0
-                },
-                {
-                    "rank": 298,
-                    "name": "BSMRU_Terminators",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 0,
-                    "penalty": 0,
-                    "first_solve_count": 0
-                }
-            ],
-            "KUET 2025": [
-                {
-                    "rank": 114,
-                    "name": "BSMRU_NewHorizon",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 1,
-                    "penalty": 35,
-                    "first_solve_count": 0
-                }
-            ],
-            "UIU 2025": [
-                {
-                    "rank": 101,
-                    "name": "BSMRU_KnullStates",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
-                    "solved": 3,
-                    "penalty": 204,
-                    "first_solve_count": 0
-                }
-            ],
-            "AUST 2025": [
-                {
-                    "rank": 120,
-                    "name": "BSMRU_Null_State",
-                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
-                    "solved": 2,
-                    "penalty": 60,
-                    "first_solve_count": 0
-                }
-            ]
-        }
-    },
-    {
         "name": "BANGAMATA SHEIKH FOJILATUNNESA MUJIB SCIENCE AND TECHNOLOGY UNIVERSITY",
         "alt_names": [],
         "contest_map": {
@@ -7440,8 +7334,110 @@
     },
     {
         "name": "KISHOREGANJ UNIVERSITY",
-        "alt_names": [],
-        "contest_map": {}
+        "alt_names": [
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ"
+        ],
+        "contest_map": {
+            "CUET 2024": [
+                {
+                    "rank": 85,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 1,
+                    "penalty": 4,
+                    "first_solve_count": 0
+                }
+            ],
+            "SUST 2024": [
+                {
+                    "rank": 80,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 3,
+                    "penalty": 358,
+                    "first_solve_count": 0
+                }
+            ],
+            "NCPC 2024": [
+                {
+                    "rank": 156,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 2,
+                    "penalty": 127,
+                    "first_solve_count": 0
+                }
+            ],
+            "IUT 2024": [
+                {
+                    "rank": 85,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+                    "solved": 1,
+                    "penalty": 67,
+                    "first_solve_count": 0
+                }
+            ],
+            "BUET 2024": [
+                {
+                    "rank": 94,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 3,
+                    "penalty": 597,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2024": [
+                {
+                    "rank": 208,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 2,
+                    "penalty": 398,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 298,
+                    "name": "BSMRU_Terminators",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 0,
+                    "penalty": 0,
+                    "first_solve_count": 0
+                }
+            ],
+            "KUET 2025": [
+                {
+                    "rank": 114,
+                    "name": "BSMRU_NewHorizon",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 1,
+                    "penalty": 35,
+                    "first_solve_count": 0
+                }
+            ],
+            "UIU 2025": [
+                {
+                    "rank": 101,
+                    "name": "BSMRU_KnullStates",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY",
+                    "solved": 3,
+                    "penalty": 204,
+                    "first_solve_count": 0
+                }
+            ],
+            "AUST 2025": [
+                {
+                    "rank": 120,
+                    "name": "BSMRU_Null_State",
+                    "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN UNIVERSITY, KISHOREGANJ",
+                    "solved": 2,
+                    "penalty": 60,
+                    "first_solve_count": 0
+                }
+            ]
+        }
     },
     {
         "name": "LEADING UNIVERSITY",
