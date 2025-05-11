@@ -44,6 +44,11 @@
       "name": "AUST 2025",
       "filenames": ["AUST25.html"],
       "parser": "TOPH"
+    },
+    {
+      "name": "DUET 2025",
+      "filenames": ["DUET25.html"],
+      "parser": "TOPH"
     }
   ]
 }
