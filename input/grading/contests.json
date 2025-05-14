@@ -46,7 +46,7 @@
       "name": "UIU 2025",
       "filenames": ["UIU25.html"],
       "parser": "BAPS",
-      "date": "2024-01-18"
+      "date": "2025-01-18"
     },
     {
       "name": "AUST 2025",
@@ -58,7 +58,7 @@
       "name": "DUET 2025",
       "filenames": ["DUET25.html"],
       "parser": "TOPH",
-      "date": "2024-05-10"
+      "date": "2025-05-10"
     }
   ]
 }
