@@ -1,6 +1,7 @@
 [
     {
         "name": "CUET 2024",
+        "date": "2024-01-26",
         "max_solved": 9,
         "team_list": [
             {
@@ -1731,6 +1732,7 @@
     },
     {
         "name": "SUST 2024",
+        "date": "2024-02-18",
         "max_solved": 8,
         "team_list": [
             {
@@ -3765,6 +3767,7 @@
     },
     {
         "name": "NCPC 2024",
+        "date": "2024-03-09",
         "max_solved": 10,
         "team_list": [
             {
@@ -7043,6 +7046,7 @@
     },
     {
         "name": "IUT 2024",
+        "date": "2024-05-01",
         "max_solved": 7,
         "team_list": [
             {
@@ -8997,6 +9001,7 @@
     },
     {
         "name": "BUET 2024",
+        "date": "2024-11-01",
         "max_solved": 7,
         "team_list": [
             {
@@ -10935,6 +10940,7 @@
     },
     {
         "name": "ICPC 2024",
+        "date": "2024-12-07",
         "max_solved": 7,
         "team_list": [
             {
@@ -16145,6 +16151,7 @@
     },
     {
         "name": "KUET 2025",
+        "date": "2025-01-04",
         "max_solved": 8,
         "team_list": [
             {
@@ -18857,6 +18864,7 @@
     },
     {
         "name": "UIU 2025",
+        "date": "2024-01-18",
         "max_solved": 7,
         "team_list": [
             {
@@ -21549,6 +21557,7 @@
     },
     {
         "name": "AUST 2025",
+        "date": "2025-02-22",
         "max_solved": 10,
         "team_list": [
             {
@@ -23753,6 +23762,7 @@
     },
     {
         "name": "DUET 2025",
+        "date": "2024-05-10",
         "max_solved": 9,
         "team_list": [
             {
