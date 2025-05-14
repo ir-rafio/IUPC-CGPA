@@ -1,0 +1,9 @@
+# Ignore everything in output/
+output/
+
+# Ignore everything in input/distribution/
+input/distribution/
+
+# But do NOT ignore anything in input/distribution/example/
+!input/distribution/example/
+!input/distribution/example/**
