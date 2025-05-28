@@ -4246,6 +4246,11 @@
         }
     },
     {
+        "name": "DR. SEKANDAR ALI COLLEGE",
+        "alt_names": [],
+        "contest_map": {}
+    },
+    {
         "name": "EAST DELTA UNIVERSITY",
         "alt_names": [
             "EAST DELTA UNIVERSITY, CHITTAGONG"
@@ -4823,6 +4828,11 @@
                 }
             ]
         }
+    },
+    {
+        "name": "GOVT. SHAHID SUHRAWARDY COLLEGE, DHAKA",
+        "alt_names": [],
+        "contest_map": {}
     },
     {
         "name": "GREEN UNIVERSITY OF BANGLADESH",
@@ -10092,6 +10102,11 @@
         }
     },
     {
+        "name": "PIROJPUR SCIENCE AND TECHNOLOGY UNIVERSITY",
+        "alt_names": [],
+        "contest_map": {}
+    },
+    {
         "name": "PORT CITY INTERNATIONAL UNIVERSITY",
         "alt_names": [],
         "contest_map": {
@@ -12035,7 +12050,9 @@
     },
     {
         "name": "SONARGAON UNIVERSITY",
-        "alt_names": [],
+        "alt_names": [
+            "SONARGAON UNIVERSITY (SU)"
+        ],
         "contest_map": {
             "NCPC 2024": [
                 {
