@@ -5,5 +5,6 @@ dependencies:
   - pandas
   - regex
   - requests
+  - heapdict
   - ipykernel
   - xlsxwriter
