@@ -59,6 +59,12 @@
       "filenames": ["DUET25.html"],
       "parser": "TOPH",
       "date": "2025-05-10"
+    },
+    {
+      "name": "UU 2025",
+      "filenames": ["UU25.html"],
+      "parser": "TOPH",
+      "date": "2025-06-21"
     }
   ]
 }
