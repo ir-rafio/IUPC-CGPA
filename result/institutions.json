@@ -882,7 +882,8 @@
         "alt_names": [
             "BANGLADESH ARMY UNIVERSITY OF ENGINEERING & TECHNOLOGY",
             "BANGLADESH ARMY UNIVERSITY OF ENGINEERING AND TECHNOLOGY (BAUET), QADIRABAD",
-            "BANGLADESH ARMY UNIVERSITY OF ENGINEERING & TECHNOLOGY (BAUET)"
+            "BANGLADESH ARMY UNIVERSITY OF ENGINEERING & TECHNOLOGY (BAUET)",
+            "BANGLADESH ARMY UNIVERSITY OF ENGINEERING& TECHNOLOGY (BAUET)"
         ],
         "contest_map": {
             "NCPC 2024": [
@@ -940,6 +941,16 @@
                     "institution": "BANGLADESH ARMY UNIVERSITY OF ENGINEERING & TECHNOLOGY",
                     "solved": 1,
                     "penalty": 185,
+                    "first_solve_count": 0
+                }
+            ],
+            "DUET 2025": [
+                {
+                    "rank": 104,
+                    "name": "BAUET_Bishonno",
+                    "institution": "BANGLADESH ARMY UNIVERSITY OF ENGINEERING& TECHNOLOGY (BAUET)",
+                    "solved": 3,
+                    "penalty": 328,
                     "first_solve_count": 0
                 }
             ]
