@@ -577,9 +577,10 @@
         }
     },
     {
-        "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+        "name": "GOPALGANJ SCIENCE AND TECHNOLOGY UNIVERSITY (GSTU)",
         "alt_names": [
-            "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY"
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY",
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY"
         ],
         "contest_map": {
             "NCPC 2024": [
@@ -659,6 +660,16 @@
                     "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
                     "solved": 2,
                     "penalty": 191,
+                    "first_solve_count": 0
+                }
+            ],
+            "DUET 2025": [
+                {
+                    "rank": 68,
+                    "name": "BSMRSTU_aRcanes",
+                    "institution": "GOPALGANJ SCIENCE AND TECHNOLOGY UNIVERSITY (GSTU)",
+                    "solved": 4,
+                    "penalty": 293,
                     "first_solve_count": 0
                 }
             ]
@@ -5173,22 +5184,6 @@
                     "institution": "GONO UNIVERSITY",
                     "solved": 1,
                     "penalty": 66,
-                    "first_solve_count": 0
-                }
-            ]
-        }
-    },
-    {
-        "name": "GOPALGANJ SCIENCE AND TECHNOLOGY UNIVERSITY (GSTU)",
-        "alt_names": [],
-        "contest_map": {
-            "DUET 2025": [
-                {
-                    "rank": 68,
-                    "name": "BSMRSTU_aRcanes",
-                    "institution": "GOPALGANJ SCIENCE AND TECHNOLOGY UNIVERSITY (GSTU)",
-                    "solved": 4,
-                    "penalty": 293,
                     "first_solve_count": 0
                 }
             ]
