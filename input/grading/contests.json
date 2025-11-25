@@ -65,6 +65,12 @@
       "filenames": ["UU25.html"],
       "parser": "TOPH",
       "date": "2025-06-21"
+    },
+    {
+      "name": "MU 2025",
+      "filenames": ["MU25.html"],
+      "parser": "TOPH",
+      "date": "2025-11-22"
     }
   ]
 }
