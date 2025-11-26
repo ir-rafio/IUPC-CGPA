@@ -616,7 +616,8 @@
         "name": "GOPALGANJ SCIENCE AND TECHNOLOGY UNIVERSITY (GSTU)",
         "alt_names": [
             "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE & TECHNOLOGY UNIVERSITY",
-            "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY"
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN SCIENCE AND TECHNOLOGY UNIVERSITY",
+            "GOPALGANJ SCIENCE AND TECHNOLOGY UNIVERSITY"
         ],
         "contest_map": {
             "NCPC 2024": [
@@ -4448,6 +4449,13 @@
         }
     },
     {
+        "name": "DELTA COMPUTER SCIENCE COLLEGE, RANGPUR",
+        "alt_names": [
+            "DELTA COMPUTER SCIENCE COLLEGE"
+        ],
+        "contest_map": {}
+    },
+    {
         "name": "DHAKA CITY COLLEGE",
         "alt_names": [],
         "contest_map": {
@@ -6165,7 +6173,8 @@
     {
         "name": "INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG",
         "alt_names": [
-            "INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG (IIUC)"
+            "INTERNATIONAL ISLAMIC UNIVERSITY CHITTAGONG (IIUC)",
+            "INTERNATIONAL ISLAMIC UNIVERSITY, CHITTAGONG"
         ],
         "contest_map": {
             "CUET 2024": [
@@ -11589,7 +11598,8 @@
         "name": "PREMIER UNIVERSITY",
         "alt_names": [
             "PREMIER UNIVERSITY CHITTAGONG",
-            "PREMIER UNIVERSITY, CHITTAGONG"
+            "PREMIER UNIVERSITY, CHITTAGONG",
+            "PREMIER UNIVERSITY, CHATTOGRAM"
         ],
         "contest_map": {
             "CUET 2024": [
@@ -13517,7 +13527,8 @@
     {
         "name": "NETROKONA UNIVERSITY",
         "alt_names": [
-            "SHEIKH HASINA UNIVERSITY"
+            "SHEIKH HASINA UNIVERSITY",
+            "UNIVERSITY OF NETROKONA"
         ],
         "contest_map": {
             "CUET 2024": [
