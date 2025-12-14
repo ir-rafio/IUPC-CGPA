@@ -71,6 +71,12 @@
       "filenames": ["MU25.html"],
       "parser": "TOPH",
       "date": "2025-11-22"
+    },
+    {
+      "name": "CUET 2025",
+      "filenames": ["CUET25.html"],
+      "parser": "TOPH",
+      "date": "2025-12-13"
     }
   ]
 }
