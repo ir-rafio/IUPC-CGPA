@@ -77,6 +77,12 @@
       "filenames": ["CUET25.html"],
       "parser": "TOPH",
       "date": "2025-12-13"
+    },
+    {
+      "name": "ICPC 2025",
+      "filenames": ["ICPC25 - Page 1.html", "ICPC25 - Page 2.html"],
+      "parser": "BAPS",
+      "date": "2025-12-20"
     }
   ]
 }
