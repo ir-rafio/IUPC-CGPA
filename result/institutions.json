@@ -5735,7 +5735,8 @@
             "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY, GAZIPUR",
             "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY",
             "DHAKA UNIVERSITY OF ENGINEERING AND TECHNOLOGY - GAZIPUR",
-            "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY (DUET)"
+            "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY (DUET)",
+            "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY - GAZIPUR"
         ],
         "contest_map": {
             "SUST 2024": [
@@ -5905,6 +5906,24 @@
                     "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY",
                     "solved": 3,
                     "penalty": 507,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2025": [
+                {
+                    "rank": 69,
+                    "name": "DUET_DalBhat",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY - GAZIPUR",
+                    "solved": 3,
+                    "penalty": 304,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 116,
+                    "name": "DUET_ImmortalLoop",
+                    "institution": "DHAKA UNIVERSITY OF ENGINEERING & TECHNOLOGY - GAZIPUR",
+                    "solved": 2,
+                    "penalty": 118,
                     "first_solve_count": 0
                 }
             ]
