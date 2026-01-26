@@ -731,9 +731,10 @@
         }
     },
     {
-        "name": "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY",
+        "name": "UNIVERSITY OF FRONTIER TECHNOLOGY, BANGLADESH",
         "alt_names": [
-            "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY,BANGLADESH"
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY,BANGLADESH",
+            "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY"
         ],
         "contest_map": {
             "ICPC 2024": [
@@ -753,6 +754,32 @@
                     "institution": "BANGABANDHU SHEIKH MUJIBUR RAHMAN DIGITAL UNIVERSITY",
                     "solved": 3,
                     "penalty": 179,
+                    "first_solve_count": 0
+                }
+            ],
+            "ICPC 2025": [
+                {
+                    "rank": 161,
+                    "name": "error_404",
+                    "institution": "UNIVERSITY OF FRONTIER TECHNOLOGY, BANGLADESH",
+                    "solved": 2,
+                    "penalty": 287,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 179,
+                    "name": "return 0",
+                    "institution": "UNIVERSITY OF FRONTIER TECHNOLOGY, BANGLADESH",
+                    "solved": 2,
+                    "penalty": 339,
+                    "first_solve_count": 0
+                },
+                {
+                    "rank": 236,
+                    "name": "UFTB_BitsBlitz",
+                    "institution": "UNIVERSITY OF FRONTIER TECHNOLOGY, BANGLADESH",
+                    "solved": 1,
+                    "penalty": 29,
                     "first_solve_count": 0
                 }
             ]
