@@ -83,6 +83,12 @@
       "filenames": ["ICPC25 - Page 1.html", "ICPC25 - Page 2.html"],
       "parser": "BAPS",
       "date": "2025-12-20"
+    },
+    {
+      "name": "BUET 2026",
+      "filenames": ["BUET26.html"],
+      "parser": "TOPH",
+      "date": "2026-02-05"
     }
   ]
 }
