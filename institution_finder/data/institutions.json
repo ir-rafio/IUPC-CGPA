@@ -58,8 +58,9 @@
     {
       "name": "BANGLADESH ARMY UNIVERSITY OF SCIENCE AND TECHNOLOGY",
       "alt_names": [
+        "BANGLADESH ARMY UNIVERSITY OF SCIENCE AND TECHNOLOGY (BAUST)",
         "BANGLADESH ARMY UNIVERSITY OF SCIENCE AND TECHNOLOGY(BAUST), SAIDPUR",
-        "BANGLADESH ARMY UNIVERSITY OF SCIENCE AND TECHNOLOGY (BAUST)"
+        "BANGLADESH ARMY UNIVERSITY OF SCIENCE AND TECHNOLOGY, KHULNA"
       ]
     },
     {
@@ -172,6 +173,10 @@
       "alt_names": []
     },
     {
+      "name": "CITY UNIVERSITY, BANGLADESH",
+      "alt_names": []
+    },
+    {
       "name": "COLLEGE OF BUSINESS SCIENCE AND TECHNOLOGY, MYMENSINGH",
       "alt_names": []
     },
@@ -251,7 +256,8 @@
     {
       "name": "EASTERN UNIVERSITY",
       "alt_names": [
-        "EASTERN UNIVERSITY OF BANGLADESH"
+        "EASTERN UNIVERSITY OF BANGLADESH",
+        "EASTERN UNIVERSITY, BANGLADESH"
       ]
     },
     {
@@ -332,7 +338,9 @@
     },
     {
       "name": "INSTITUTE OF SCIENCE AND TECHNOLOGY",
-      "alt_names": []
+      "alt_names": [
+        "INSTITUTE OF SCIENCE & TECHNOLOGY"
+      ]
     },
     {
       "name": "INSTITUTE OF SCIENCE TRADE & TECHNOLOGY (ISTT)",
@@ -513,7 +521,8 @@
     {
       "name": "NORTHERN UNIVERSITY BANGLADESH",
       "alt_names": [
-        "NORTHERN UNIVERSITY OF BANGLADESH"
+        "NORTHERN UNIVERSITY OF BANGLADESH",
+        "NORTHERN UNIVERSITY, BANGLADESH"
       ]
     },
     {
@@ -716,6 +725,7 @@
     {
       "name": "UNIVERSITY OF ASIA PACIFIC",
       "alt_names": [
+        "UNIVERSITY OF ASIA PACIFIC (BANGLADESH)",
         "UNIVERSITY OF ASIA PACIFIC (UAP)"
       ]
     },

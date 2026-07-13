@@ -107,6 +107,12 @@
       "filenames": ["DUET26.html"],
       "parser": "TOPH",
       "date": "2026-06-27"
+    },
+    {
+      "name": "SUST 2026",
+      "filenames": ["SUST26.html"],
+      "parser": "TOPH",
+      "date": "2026-07-12"
     }
   ]
 }

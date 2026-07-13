@@ -255,6 +255,20 @@
             "parsed_at": "2026-06-28T06:37:29.569926+00:00",
             "team_count": 140,
             "warning_count": 0
+        },
+        "sust-2026": {
+            "source_files": [
+                "SUST26.html"
+            ],
+            "source_hashes": [
+                "19cad35d2489f5902970375c80f1c8eeab201eb3d434a7b6ddcdd2d52bb227f5"
+            ],
+            "parser": "TOPH",
+            "parser_version": 1,
+            "date": "2026-07-12",
+            "parsed_at": "2026-07-13T11:59:05.968687+00:00",
+            "team_count": 138,
+            "warning_count": 0
         }
     }
 }
