@@ -269,6 +269,20 @@
             "parsed_at": "2026-07-13T11:59:05.968687+00:00",
             "team_count": 138,
             "warning_count": 0
+        },
+        "iut-2026": {
+            "source_files": [
+                "IUT26.html"
+            ],
+            "source_hashes": [
+                "743cef19bd9c10d4683de3d4eb2da1a2c58641c39787f22bf78f5c97795ba0e2"
+            ],
+            "parser": "TOPH",
+            "parser_version": 1,
+            "date": "2026-07-25",
+            "parsed_at": "2026-07-26T08:33:17.454497+00:00",
+            "team_count": 112,
+            "warning_count": 0
         }
     }
 }
